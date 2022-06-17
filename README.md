@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmed-ds-eg
 - 👀 I’m interested in Machine learning ,AI
-- 🌱 I’m currently learning Machine learning ,AI
+- 🌱 I’m currently studying  Machine learning and AI at ITI (information technoloy institute )
 - 📫 How to reach me [(https://www.linkedin.com/in/ahmed-hamza-066230199/)]
 
 <!---
